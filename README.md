@@ -27,7 +27,7 @@ A **Netflix Clone** built using HTML, CSS, and JavaScript, following a tutorial 
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/ethical0101/Netflix-Clone.git
+   git clone https://github.com/AKHILKUMAR03350/Netflix-Clone.git
    ```
 2. **Navigate to the Project Folder**
    ```sh
@@ -52,10 +52,6 @@ This project is inspired by the tutorial from **GreatStack** on YouTube. Watch t
 
 Contributions are welcome! Feel free to fork the repo, submit issues, or create pull requests.
 
-## 📩 Contact
-
-🔗 GitHub: [ethical0101](https://github.com/ethical0101)\
-📧 Email: kommidruthendra2005@gmail.com
 
 ## 📝 License
 
